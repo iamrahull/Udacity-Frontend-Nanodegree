@@ -14,8 +14,8 @@
 
 |     Projects | Code Links  |
 | ------------- |:-------------:|
-| Personal Blog | Project 1 |
-| Dynamic Landing Page | Project 2  |
+| Personal Blog | [Project 1](https://github.com/iamrahull/Personal-Blog) |
+| Dynamic Landing Page | [Project 2](https://github.com/iamrahull/Dynamic-Landing-Page)  |
 | Weather Journal | Project 3  |
-| Analyse Article using NLP | Project 4  |
-| Travel App | Project 5  |
+| Analyse Article using NLP | [Project 4](https://github.com/iamrahull/Article-Analysis-Website)  |
+| Travel App | [Project 5](https://github.com/iamrahull/Travel-App)  |
