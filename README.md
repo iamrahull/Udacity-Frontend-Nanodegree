@@ -1,6 +1,8 @@
 # Udacity-Frontend-Nanodegree
  Constructed responsive websites using CSS, Flexbox, and CSS Grid, develop interactive websites and UI (User Interface) applications using JavaScript and HTML and connect a web application to backend server data using JavaScript.
 
+## Course Curriculum
+
 |     Module Name        | Topics Covered  |	Projects  |
 | ------------- |:-------------:| :-----:|
 | Web Layout and CSS | CSS, Grid, Flexbox, Media Queries. | A Responsive Personal Blog Site |
@@ -8,3 +10,12 @@
 | Web APIs | Nodejs and Express | Weather Journal |
 | Build Tools and Webpack | Webpack and Service Workers | Analyse Article using NLP and Capstone |
 
+## Projects
+
+|     Projects | Code Links  |
+| ------------- |:-------------:|
+| Personal Blog | Project 1 |
+| Dynamic Landing Page | Project 1  |
+| Weather Journal | Project 1  |
+| Analyse Article using NLP | Project 1  |
+| Travel App | Project 1  |
