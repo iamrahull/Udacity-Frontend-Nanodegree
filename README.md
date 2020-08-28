@@ -15,7 +15,7 @@
 |     Projects | Code Links  |
 | ------------- |:-------------:|
 | Personal Blog | Project 1 |
-| Dynamic Landing Page | Project 1  |
-| Weather Journal | Project 1  |
-| Analyse Article using NLP | Project 1  |
-| Travel App | Project 1  |
+| Dynamic Landing Page | Project 2  |
+| Weather Journal | Project 3  |
+| Analyse Article using NLP | Project 4  |
+| Travel App | Project 5  |
