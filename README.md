@@ -20,4 +20,3 @@
 | Analyse Article using NLP | [Project 4](https://github.com/iamrahull/Article-Analysis-Website)  |
 | Travel App | [Project 5](https://github.com/iamrahull/Travel-App)  |
 
-[![Certificate](udacity_Fend_Certificate.png)](https://confirm.udacity.com/JPASFUPP)
